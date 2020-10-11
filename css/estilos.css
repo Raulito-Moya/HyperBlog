@@ -20,6 +20,7 @@ body{
 }
 
 #cabecera{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background: #33A;
     color: white;
     font-weight: bold;
