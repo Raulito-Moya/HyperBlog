@@ -15,3 +15,5 @@ Master2
 y caracteristicas humanas
 
 ¡¡Ya se esta acabando el curso
+
+voy a experientar con rebase
