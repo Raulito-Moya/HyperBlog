@@ -33,3 +33,9 @@ body{
     font-size: 0.8em;
     padding: 0 0 0 1em;
 }
+
+#footer{
+    text-align: center;
+    background-color: #33A;
+    color: goldenrod;
+}
